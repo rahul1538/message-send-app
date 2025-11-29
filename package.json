@@ -3,10 +3,8 @@
   "version": "1.0.0",
   "main": "server.js",
   "scripts": {
-    "start": "node backend/server.js",
-    "dev-backend": "nodemon backend/server.js",
-    "dev-frontend": "npm start --prefix frontend",
-    "start-all": "concurrently \"npm run dev-backend\" \"npm run dev-frontend\""
+    "start": "node server.js",
+    
   },
   "keywords": [],
   "author": "",
