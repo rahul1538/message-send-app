@@ -3,9 +3,13 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
+<<<<<<< HEAD
     "start": "node index.js"
     
     
+=======
+    "start": "node server.js"
+>>>>>>> 323b143a65ab23cc681078c7e71aeda0270eb98e
     
   },
   "keywords": [],
